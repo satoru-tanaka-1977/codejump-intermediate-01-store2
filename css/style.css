@@ -245,6 +245,18 @@ li {
 
 }
 
+/* About */
+
+#about {
+    max-width: 600px;
+}
+
+#about p {
+    margin-bottom: 30px;
+    line-height: 1.9;
+}
+
+
 
 
 
